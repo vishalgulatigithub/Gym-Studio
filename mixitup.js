@@ -4,7 +4,7 @@
  * Build 94e0fbf6-cd0b-4987-b3c0-14b59b67b8a0
  *
  * @copyright Copyright 2014-2018 KunkaLabs Limited.
- * @author    KunkaLabs Limited.
+ * @author    KunkaLabs Limited. 
  * @link      https://www.kunkalabs.com/mixitup/
  *
  * @license   Commercial use requires a commercial license.
